@@ -18,8 +18,8 @@
 ## MacroBot - The Game:
   Jogo desenvolvido em HTML, CSS, e JavaScript, durante o segundo semestre do curso, para a matéria de Web Standards e Game Developing, com o [Professor Israel Marques](https://www.linkedin.com/in/israel-marques-cajai-junior-73b592238/).
 
-- [MacroBot - Repositório](https://github.com/bzr-lipe/MacroBotGAME)
-- [Macrobot - Hospedado](https://macrobot-game.netlify.app/)
+- [MacroBot - The Game - Repositório](https://github.com/bzr-lipe/MacroBotGAME)
+- [Macrobot - The Game - Hospedado](https://macrobot-game.netlify.app/)
 
 ## Iclitum *(Projeto Atual)/Incompleto*:
   Site sendo desenvolvido em HTML, CSS, Bootstrap e JavaScript, cuja proposta é construir todo o universo de uma empresa fictícia, incluindo um site completo detalhando e demonstrando atuação da empresa, e criação de todas redes sociais para tornar o mais próximo possível de uma experiência real.
