@@ -21,10 +21,10 @@
 - [MacroBot - The Game - Repositório](https://github.com/bzr-lipe/MacroBotGAME)
 - [Macrobot - The Game - Hospedado](https://macrobot-game.netlify.app/)
 
-## Iclitum *(Projeto Atual)/Incompleto*:
-  Site sendo desenvolvido em HTML, CSS, Bootstrap e JavaScript, cuja proposta é construir todo o universo de uma empresa fictícia, incluindo um site completo detalhando e demonstrando atuação da empresa, e criação de todas redes sociais para tornar o mais próximo possível de uma experiência real.
+## Grand Hotel:
+  Site desenvolvido em HTML, CSS, e JavaScript, durante o segundo semestre do curso, para a matéria de Web Standards e Game Developing, com o [Professor Israel Marques](https://www.linkedin.com/in/israel-marques-cajai-junior-73b592238/), cuja proposta é calcular o total do valor das reservas, levando em consideração o número de adultos, crianças e total de diárias.
 
-- [Inclitum - Repositório](https://github.com/bzr-lipe/inclitum)
+- [Grand Hotel - Repositório](https://github.com/bzr-lipe/inclitum)
 
 
 
