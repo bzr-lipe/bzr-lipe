@@ -6,8 +6,7 @@
   Site desenvolvido utilizando HTML, CSS, React.js no Front-End, e Java e Spring Boot no Back-end.
   Aplicação cujo objetivo é puxar os dados de vendedores utilizando Spring Boot para interagir com o banco de dados e Twilio para envio de SMS, e através do React.js oferecer a opção de filtrar vendas dentro de um determinado periodo de tempo.
  
-- [DSMETA - Repositório](https://github.com/bzr-lipe/projetoSpring-React)
-- [DSMETA - Hospedado](https://macrobot.netlify.app/)
+
 
 ## MacroBot - Site:
   Site desenvolvido em HTML, CSS, Bootstrap e JavaScript, durante o segundo semestre do curso, para a matéria de Web Standards e Game Developing, com o [Professor Israel Marques](https://www.linkedin.com/in/israel-marques-cajai-junior-73b592238/).
