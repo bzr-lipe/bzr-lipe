@@ -9,7 +9,7 @@ Com o passar dos anos, senti a necessidade de procurar algo que me causasse a me
 ## Ferramentas e Tecnologias
  <a href="https://github.com/bzr-lipe/bzr-lipe/blob/main/html-css-js.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>  <a href="https://github.com/bzr-lipe/bzr-lipe/blob/main/html-css-js.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>  <a href="https://github.com/bzr-lipe/bzr-lipe/blob/main/html-css-js.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/></a>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
-(Ao clicar no ícone da linguagem, você será direcionado para onde organizei todos os projetos relacionados com a linguagem escolhida)
+(Ao clicar no ícone da linguagem, você será direcionado para onde organizei todos os projetos relacionados a linguagem escolhida)
 
 ## Projetos Pessoais / Trabalhos de Faculdade
 
