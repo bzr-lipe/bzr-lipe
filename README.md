@@ -26,7 +26,7 @@ Com o passar dos anos, senti a necessidade de procurar algo que me causasse a me
   Site desenvolvido em HTML, CSS e JavaScript. Optei por não utilizar frameworks.
 
 - [FIAP - Repositório](https://github.com/bzr-lipe/MacroBot) 
-- [FIAP - Hospedado](https://macrobot.netlify.app/)
+- [FIAP - Hospedado](https://felipe-bezerra-front.vercel.app/)
   
  
 ## DSMETA
