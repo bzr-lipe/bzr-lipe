@@ -7,7 +7,7 @@
 Com o passar dos anos, senti a necessidade de procurar algo que me causasse a mesma "fome" por conhecimento que eu sentia ao lidar com hardware, foi então, em 2021, que conheci a programação, e desde então sigo trabalhando para me tornar o melhor naquilo que me propus a fazer. 
 
 ## Ferramentas e Tecnologias
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+ <a href="https://github.com/bzr-lipe/bzr-lipe/blob/5e913f7bbb4ee334225227b7f5826c20f658c51b/html-css-js.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
 
 
@@ -38,7 +38,7 @@ Com o passar dos anos, senti a necessidade de procurar algo que me causasse a me
   Site desenvolvido em HTML, CSS e JavaScript e Bootstrap. Projeto iniciado junto com a empresa, buscando atender as necessidades, porém o projeto foi descontinuado para priorizar outras necessidades da empresa.
 
 - [Ganso - Repositório](https://github.com/bzr-lipe/ganso-site) 
-- [Ganso - Hospedado](https://ganso-testing.netlify.app/)
+- [Ganso - Hospedado](https://ganso-site-zeta.vercel.app/)
   
  
 ## DSMETA
@@ -51,7 +51,8 @@ Com o passar dos anos, senti a necessidade de procurar algo que me causasse a me
 ## Grand Hotel:
   Site desenvolvido em HTML, CSS, e JavaScript, durante o segundo semestre do curso, para a matéria de Web Standards e Game Developing, com o [Professor Israel Marques](https://www.linkedin.com/in/israel-marques-cajai-junior-73b592238/), cuja proposta é calcular o total do valor das reservas, levando em consideração o número de adultos, crianças e total de diárias.
 
-- [Grand Hotel - Repositório](https://github.com/bzr-lipe/inclitum)
+- [Grand Hotel - Repositório](https://github.com/bzr-lipe/GrandHotel)
+- [Grand Hotel - Hospedado](https://grand-hotel-ten.vercel.app/)
 
 
 
