@@ -1,4 +1,4 @@
-#Projetos HTML, CSS, JS
+# Projetos HTML, CSS, JS
 
 ## Clone de Página - FIAP
   Site desenvolvido em HTML, CSS e JavaScript. Optei por não utilizar frameworks.
