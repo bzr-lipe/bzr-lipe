@@ -21,6 +21,12 @@ Com o passar dos anos, senti a necessidade de procurar algo que me causasse a me
 - [FIAP - Repositório](https://github.com/bzr-lipe/MacroBot) 
 - [FIAP - Hospedado](https://felipe-bezerra-front.vercel.app/)
 
+## Portfolio (on Progress)
+  Site sendo desenvolvido com intuito de reunir meus projetos, currículo, contato, etc.
+
+- [bzr-lipe - Repositório](https://github.com/bzr-lipe/my-personal-website) 
+- [bzr-lipe - Hospedado](https://bzr-lipe.vercel.app/)
+
 ## MacroBot - Site:
   Site desenvolvido em HTML, CSS, Bootstrap e JavaScript, durante o segundo semestre do curso, para a matéria de Web Standards e Game Developing, com o [Professor Israel Marques](https://www.linkedin.com/in/israel-marques-cajai-junior-73b592238/), porém após o trabalho entregue, continuei a efetuar algumas mudanças.
 
