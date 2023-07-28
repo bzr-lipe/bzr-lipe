@@ -1,8 +1,4 @@
 
-# Apresentação
-  Sempre fui apaixonado por tecnologia, e essa paixão, somada a curiosidade de entender como as coisas funcionam, me levaram a trabalhar com o conserto de celulares e computadores durante toda adolescência.
-Com o passar dos anos, senti a necessidade de procurar algo que me causasse a mesma "fome" por conhecimento que eu sentia ao lidar com hardware, foi então, em 2021, que conheci a programação, e desde então sigo trabalhando para me tornar o melhor naquilo que me propus a fazer. 
-
 ## Ferramentas e Tecnologias
 <a href="https://github.com/bzr-lipe/bzr-lipe/blob/main/html-css-js.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/></a>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 
