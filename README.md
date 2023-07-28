@@ -16,11 +16,9 @@ Com o passar dos anos, senti a necessidade de procurar algo que me causasse a me
 - [FIAP - Repositório](https://github.com/bzr-lipe/MacroBot) 
 - [FIAP - Hospedado](https://felipe-bezerra-front.vercel.app/)
 
-## Portfolio (on Progress)
-  Site sendo desenvolvido com intuito de reunir meus projetos, currículo, contato, etc.
-
-- [bzr-lipe - Repositório](https://github.com/bzr-lipe/my-personal-website) 
-- [bzr-lipe - Hospedado](https://bzr-lipe.vercel.app/)
+## Desafio NextJs - FIAP
+  Site desenvolvido utilizando NextJs, styled components e GSAP para animações 
+- [FIAP NextJs](https://dinamica-next.vercel.app/)
 
 ## MacroBot - Site:
   Site desenvolvido em HTML, CSS, Bootstrap e JavaScript, durante o segundo semestre do curso, para a matéria de Web Standards e Game Developing, com o [Professor Israel Marques](https://www.linkedin.com/in/israel-marques-cajai-junior-73b592238/), porém após o trabalho entregue, continuei a efetuar algumas mudanças.
@@ -34,20 +32,11 @@ Com o passar dos anos, senti a necessidade de procurar algo que me causasse a me
 - [MacroBot - The Game - Repositório](https://github.com/bzr-lipe/MacroBotGAME)
 - [Macrobot - The Game - Hospedado](https://macrobot-game.netlify.app/)
 
-
-## Ganso - Complexo de Lazer (on Progress)
-  Site desenvolvido em HTML, CSS e JavaScript e Bootstrap. Projeto iniciado junto com a empresa, buscando atender as necessidades, porém o projeto foi descontinuado para priorizar outras necessidades da empresa.
-
-- [Ganso - Repositório](https://github.com/bzr-lipe/ganso-site) 
-- [Ganso - Hospedado](https://ganso-site-zeta.vercel.app/)
-  
- 
 ## DSMETA
   Site desenvolvido utilizando HTML, CSS, React.js no Front-End, e Java e Spring Boot no Back-end.
   Aplicação cujo objetivo é puxar os dados de vendedores utilizando Spring Boot para interagir com o banco de dados e Twilio para envio de SMS, e através do React.js oferecer a opção de filtrar vendas dentro de um determinado periodo de tempo.
   
 - [DsMeta - Repositório](https://github.com/bzr-lipe/projetoSpring-React)
-
 
 ## Grand Hotel:
   Site desenvolvido em HTML, CSS, e JavaScript, durante o segundo semestre do curso, para a matéria de Web Standards e Game Developing, com o [Professor Israel Marques](https://www.linkedin.com/in/israel-marques-cajai-junior-73b592238/), cuja proposta é calcular o total do valor das reservas, levando em consideração o número de adultos, crianças e total de diárias.
